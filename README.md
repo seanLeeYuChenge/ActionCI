@@ -1,6 +1,6 @@
 # Docker Image exmaple
 
-## Build
+## Build 
 sudo docker build . -t docker-flask
 
 ## Run
